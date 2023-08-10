@@ -1,0 +1,4 @@
+name: ScoreboardAPI
+version: 1.0
+main: dev.repliedk.scoreboard.Main
+api-version: 1.0.0
